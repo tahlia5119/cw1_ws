@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+
+  <rosparam param="planner">1</rosparam>
+  <rosparam param="heuristic">1</rosparam>
+  <rosparam param="weight">1</rosparam>
+  <rosparam param="constant">1</rosparam>
+
+</launch>

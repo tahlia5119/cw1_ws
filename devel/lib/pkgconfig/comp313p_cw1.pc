@@ -1,0 +1,8 @@
+prefix=/home/tahlia/cw1/devel
+
+Name: comp313p_cw1
+Description: Description of comp313p_cw1
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/tahlia/cw1/devel/lib 
+Requires: 
